@@ -6,7 +6,7 @@ I enjoy turning ideas into practical products and learning across **software dev
 
 ## 🚀 What I'm Working On
 
-* 🏠 **Smart Thikana** — A property and rental management platform
+* 🏠 **NEEROXA** — A property and rental management platform
 * 👕 **LIFAZ** — A fashion and clothing brand
 * 💻 Web applications and SaaS products
 * 📚 Exploring software architecture, backend systems, and business
