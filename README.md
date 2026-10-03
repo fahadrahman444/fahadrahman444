@@ -46,8 +46,8 @@ A Bangladesh-based fashion brand focused on modern, minimal clothing for young c
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn — [Fahad Rahman](https://www.linkedin.com/in/fahadrahman444/)
-* 📸 Instagram — [@fahad_rahman_444](https://www.instagram.com/fahad_rahman_444/)
-* 📘 Facebook — [Fahad Rahman](https://www.facebook.com/fahad.rahamn69/)
+* 📸 Instagram — [@fahad_rahman_444](https://www.instagram.com/fahadrahman444/)
+* 📘 Facebook — [Fahad Rahman](https://www.facebook.com/fahadrahamn444/)
 * 🌐 Website — **Coming soon**
 
 ---
