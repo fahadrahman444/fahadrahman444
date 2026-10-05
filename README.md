@@ -9,7 +9,7 @@ I'm a software developer and entrepreneur from **Bangladesh**, focused on buildi
 ### 🚀 What I'm Building
 
 * 🏠 **[NEEROXA](https://neeroxa.com)** *(Live)* — Property technology platform modernizing property listings, digital rental management, and utility tracking.
-* 👕 **[LIFAZ](https://lifaz.com)** *(Live)* — Modern, minimal apparel brand tailored for young consumers in Bangladesh.
+* 👕 **[LIFAZ](https://lifaz.shop)** *(Live)* — Modern, minimal apparel brand tailored for young consumers in Bangladesh.
 * 💻 Building web applications, SaaS platforms, and distributed backend systems.
 
 ---
@@ -31,22 +31,13 @@ I'm a software developer and entrepreneur from **Bangladesh**, focused on buildi
 
 ---
 
-### 📌 Featured Live Projects
+### 📌 Live Projects
 
-#### 🏠 [NEEROXA](https://neeroxa.com)
+#### 🏠 [NEEROXA](https://neeroxa.com) — [neeroxa.com](https://neeroxa.com)
 A full-stack property technology engine focused on house rentals, QR-code listing workflows, and automated tenant/rent management.
 
-#### 👕 [LIFAZ](https://lifaz.com)
+#### 👕 [LIFAZ](https://lifaz.shop) — [lifaz.shop](https://lifaz.shop)
 A lifestyle and apparel brand bringing minimal, high-quality contemporary fashion to youth in Bangladesh.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fahadrahman444&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadrahman444&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 ---
 
