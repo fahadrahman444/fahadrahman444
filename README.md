@@ -34,7 +34,7 @@ I'm a software developer and entrepreneur from **Bangladesh**, focused on buildi
 ### 📌 Live Projects
 
 #### 🏠 [NEEROXA](https://neeroxa.com) — [neeroxa.com](https://neeroxa.com)
-A full-stack property technology engine focused on house rentals, QR-code listing workflows, and automated tenant/rent management.
+A full-stack property technology engine focused on house rentals, listing workflows, and automated tenant/rent management.
 
 #### 👕 [LIFAZ](https://lifaz.shop) — [lifaz.shop](https://lifaz.shop)
 A lifestyle and apparel brand bringing minimal, high-quality contemporary fashion to youth in Bangladesh.
